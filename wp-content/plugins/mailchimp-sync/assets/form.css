@@ -8,7 +8,7 @@
 	margin-bottom:1em;
 }
 .mailchimp-spinner {
-	background: url('/wp-content/plugins/mailchimp-sync/assets/spinner.gif') no-repeat top left transparent;
+	background: url('/woodberrywellness/wp-content/plugins/mailchimp-sync/assets/spinner.gif') no-repeat top left transparent;
 	height: 25px;
 	width: 25px;
 	display: inline-block;

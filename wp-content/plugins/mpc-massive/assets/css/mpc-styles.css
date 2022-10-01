@@ -90,7 +90,7 @@
 @media only screen and (max-width:768px){.mpc-navigation{display:none}
 }
 .mpc-icon--mirror{display:block!important;-webkit-transform:translate(0,0) rotateY(180deg)!important;transform:translate(0,0) rotateY(180deg)}
-.mpc-image-placeholder{background-position:center!important;background-size:64px!important;background-image:url(/wp-content/plugins/mpc-massive/assets/images/mpc-image-placeholder.png);background-repeat:no-repeat;background-color:#eee}
+.mpc-image-placeholder{background-position:center!important;background-size:64px!important;background-image:url(/woodberrywellness/wp-content/plugins/mpc-massive/assets/images/mpc-image-placeholder.png);background-repeat:no-repeat;background-color:#eee}
 @media (max-width:767px){.pp_bottom,.pp_details,.pp_gallery,.pp_hoverContainer,.pp_top,a.pp_contract,a.pp_expand{display:none!important}
 .pp_pic_holder.pp_default{width:96%!important;left:2%!important;overflow:hidden}
 #pp_full_res img,.pp_content,.pp_fade{width:100%!important}
